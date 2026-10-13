@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      go-cart-wasm:
+        specifier: ^0.5.0
+        version: 0.5.0
+
+packages:
+
+  go-cart-wasm@0.5.0:
+    resolution: {integrity: sha512-KByBYu2iWDKjtgeIPBFrb0s8qGMCb3hek4qhIdH+9bVZ2t2D25NnHCiGLYCSSOh7IrMLQQBkisuT2f86E6p5Ow==}
+
+snapshots:
+
+  go-cart-wasm@0.5.0: {}
