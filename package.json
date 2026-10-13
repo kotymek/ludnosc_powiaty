@@ -1,0 +1,1 @@
+{"name":"ludnosc-powiaty","private":true,"type":"module","scripts":{"data":"node scripts/fetch-data.mjs","test":"node --test","start":"node scripts/serve.mjs"}}
